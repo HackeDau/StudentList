@@ -6,7 +6,7 @@
 package studentlist;
 
 /**
- *
+ * moded by Daunte
  * @author srinivsi
  */
 public class Student
